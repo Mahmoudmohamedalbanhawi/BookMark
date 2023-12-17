@@ -1,0 +1,18 @@
+.container{
+    border-bottom: 1px solid #999;
+}
+footer .container{
+    border: none;
+}
+
+.item {
+    width: 100%;
+    margin: auto;
+    background-color: rgb(238, 238, 238);
+}
+.d-flex{
+    gap: 35px;
+}
+a{
+    text-decoration: none;
+}
